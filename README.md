@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duando
 - 👀 I’m interested in learn python, PHP, JScript, HTML, CSS...
 - 🌱 I’m currently learning "all"
-
 - 📫 How to reach me: juanjsoto@duando.net
 
 <!---
